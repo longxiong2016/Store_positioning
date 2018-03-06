@@ -5,8 +5,11 @@
 初赛代码python：
 
 prerace_binary_classification_model_training_revised.python         二分类模型训练
+
 prerace_candidate_of_binary_classification.python                   二分类候选集选取
+
 prerace_data_preprocessing.python                                   数据预处理
+
 prerace_shop_infos_features.python                                  商铺相关特征提取
 
 复赛代码spl：
